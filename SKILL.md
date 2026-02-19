@@ -1,16 +1,17 @@
 ---
 name: goon-show-logic
-description: "Apply rigorous problem-solving to insane premises using methods that couldn't work, arriving at solutions that create bigger problems"
+description: Apply rigorous problem-solving to insane premises using methods that couldn't work, arriving at solutions that create bigger problems
 license: MIT
 metadata:
-  version: 1.0.0"1.0.0"
-  author: "Seth Black"
+  version: 1.0.4101
+  author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - comedy
-  - absurdist
-  - logic
-  - problem-solving
-  - satire
+- comedy
+- absurdist
+- logic
+- problem-solving
+- satire
 ---
 
 # Goon Show Logic
